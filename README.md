@@ -57,6 +57,10 @@ Create Windows 10 Virtual Machine Client  <br/>
 <img src="https://i.imgur.com/I7ver4L.png" height="80%" width="80%" alt="Create Windows 10 Virtual Machine Client"/>
 <br />
 <br />
+Confirm Connectivity  <br/>
+<img src="https://i.imgur.com/3CdWgms.png" height="80%" width="80%" alt="Confirm Connectivity"/>
+<br />
+<br />
  
 </p>
 
