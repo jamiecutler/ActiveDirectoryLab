@@ -37,17 +37,24 @@ IP Addresing:  <br/>
 <img src="https://i.imgur.com/ghyrEVT.png" height="80%" width="80%" alt="IP Addressing"/>
 <br />
 <br />
-Rename to DC:  <br/>
-<img src="https://i.imgur.com/WczcrUD.png" height="80%" width="80%" alt="Rename to DC"/>
+Create Domain:  <br/>
+<img src="https://i.imgur.com/v00JWht.png" height="80%" width="80%" alt="Create Domain"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install RAS/NAT:  <br/>
+<img src="https://i.imgur.com/CpSVwWN.png" height="80%" width="80%" alt="Install RAS/NAT"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure DHCP:  <br/>
+<img src="https://i.imgur.com/iXRT8lP.png" height="80%" width="80%" alt="Configure DHCP"/>
+<br />
+<br />
+Add 1,000 Users in PowerShell:  <br/>
+<img src="https://i.imgur.com/gxi2A7Z.png" height="80%" width=80% alt="Add 1,000 Users in PowerShell"/>
+<br />
+<br />
 </p>
+
 
 <!--
  ```diff
