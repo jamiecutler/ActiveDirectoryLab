@@ -53,6 +53,11 @@ Add 1,000 Users in PowerShell:  <br/>
 <img src="https://i.imgur.com/gxi2A7Z.png" height="80%" width=80% alt="Add 1,000 Users in PowerShell"/>
 <br />
 <br />
+Create Windows 10 Virtual Machine Client  <br/>
+<img src="https://i.imgur.com/I7ver4L.png" height="80%" width="80%" alt="Create Windows 10 Virtual Machine Client"/>
+<br />
+<br />
+ 
 </p>
 
 
