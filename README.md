@@ -21,7 +21,7 @@ In this lab we walk through how to create an Active Directory home lab Environme
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Creating Users With PowerShell: <br/>
 <img src="https://i.imgur.com/LfqvCWm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
