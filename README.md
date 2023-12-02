@@ -21,16 +21,16 @@ In this lab we walk through how to create an Active Directory home lab Environme
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating Users With PowerShell: <br/>
-<img src="https://i.imgur.com/LfqvCWm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download VirtualBox: <br/>
+<img src="https://i.imgur.com/NNiXDao.png" height="80%" width="80%" alt="Download VirtualBox"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Windows 10:  <br/>
+<img src="https://i.imgur.com/DFryH6q.png" height="80%" width="80%" alt="Download Windows 10"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download Server 2019: <br/>
+<img src="https://i.imgur.com/PecZiRt.png" height="80%" width="80%" alt="Download Server 2019"/>
 <br />
 <br />
 Confirm your selection:  <br/>
