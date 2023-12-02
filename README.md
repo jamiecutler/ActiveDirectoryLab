@@ -33,12 +33,12 @@ Download Server 2019: <br/>
 <img src="https://i.imgur.com/PecZiRt.png" height="80%" width="80%" alt="Download Server 2019"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+IP Addresing:  <br/>
+<img src="https://i.imgur.com/ghyrEVT.png" height="80%" width="80%" alt="IP Addressing"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename to DC:  <br/>
+<img src="https://i.imgur.com/WczcrUD.png" height="80%" width="80%" alt="Rename to DC"/>
 <br />
 <br />
 Sanitization complete:  <br/>
